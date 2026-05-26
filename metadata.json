@@ -1,0 +1,6 @@
+{
+  "name": "Offline Whisper Transcriber",
+  "description": "A 100% private, on-device audio & video speech-to-text transcriber using WebAssembly Whisper networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
